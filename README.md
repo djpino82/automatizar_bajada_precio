@@ -35,8 +35,8 @@ El script no solo "mira" la web, sino que procesa los datos de forma inteligente
 
 ## 🚀 Instalación y Uso
 
-### 1️⃣ Clonar y preparar
 ```bash
+### 1️⃣ Clonar y preparar
 git clone https://github.com/TU_USUARIO/TU_REPO.git
 cd TU_REPO
 python -m venv venv
